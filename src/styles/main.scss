@@ -1,0 +1,35 @@
+.main {
+  h2{
+    margin: 3px;
+  }
+
+  .houses {
+    &.half {
+      width: 50%;
+      float: left;
+    }
+
+  }
+
+  .residents {
+    width: 48%;
+    float: left;
+    margin-left: 2%;
+  }
+
+  .list-item {
+    background: #E9E7E2;
+    padding: 10px;
+    border: solid 1px #B5B5B5;
+    text-align: center;
+    cursor: pointer;
+
+    &.selected {
+      background: #c3c3c3;
+    }
+
+    &:hover {
+      background: #B5B5B5;
+    }
+  }
+}

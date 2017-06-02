@@ -1,0 +1,47 @@
+.ReactModal__Content {
+  .title {
+    margin: 0;
+    font-size: 19px;
+    font-weight: normal;
+    text-align: center;
+  }
+
+  .modal-content {
+    padding: 6px 0 20px 0;
+    font-size: 14px;
+    text-align: center;
+
+    input {
+      padding: 2px 7px;
+      margin-left: 3%;
+      width: 75%;
+      height: 30px;
+      font-family: 'Open Sans';
+      font-size: 14px;
+      color: #666a72;
+      border: 1px solid #c3c3c3;
+      box-sizing: border-box;
+      background-color: #f2f2f2;
+    }
+
+    >div {
+      overflow: hidden;
+      margin-top: 5px;
+      >span {
+        width: 15%;
+        display: block;
+        float: left;
+        margin-top: 7px;
+        box-sizing: border-box;
+        text-align: left;
+      }
+    }
+  }
+
+  .popup-buttons {
+    text-align: center;
+    input {
+      font-size: 12px;
+    }
+  }
+}

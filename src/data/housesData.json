@@ -1,0 +1,334 @@
+{
+  "houses": [
+    {
+      "id":"1",
+      "name": "Starks",
+      "wikiSuffix": "House_Stark",
+      "people": [
+        {
+          "id": "1",
+          "name": "Eddard \"Ned\" Stark",
+          "description": "Lord of Winterfell - Warden of the North - Hand of the King - Married to Catelyn (Tully) Stark",
+          "imageSuffix": "eddard-stark",
+          "wikiSuffix": "Eddard_Stark"
+        },
+        {
+          "id": "2",
+          "name": "Benjen Stark",
+          "description": "Brother of Eddard Stark - First ranger of the Night's Watch",
+          "imageSuffix": "benjen-stark",
+          "wikiSuffix": "Benjen_Stark"
+        },
+        {
+          "id": "3",
+          "name": "Robb Stark",
+          "description": "Son of Eddard and Catelyn Stark - Direwolf: Grey Wind",
+          "imageSuffix": "robb-stark",
+          "wikiSuffix": "Robb_Stark"
+        },
+        {
+          "id": "4",
+          "name": "Sansa Stark",
+          "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Lady",
+          "imageSuffix": "sansa-stark",
+          "wikiSuffix": "Sansa_Stark"
+        },
+        {
+          "id": "5",
+          "name": "Arya Stark",
+          "description": "Daughter of Eddard and Catelyn Stark - Direwolf: Nymeria",
+          "imageSuffix": "arya-stark",
+          "wikiSuffix": "Arya_Stark"
+        },
+        {
+          "id": "6",
+          "name": "Brandon \"Bran\" Stark",
+          "description": "Son of Eddard and Catelyn Stark - Direwolf: Summer",
+          "imageSuffix": "brandon-stark",
+          "wikiSuffix": "Brandon_Stark"
+        },
+        {
+          "id": "7",
+          "name": "Rickon Stark",
+          "description": "Son of Eddard and Catelyn Stark - Direwolf: Shaggydog",
+          "imageSuffix": "rickon-stark",
+          "wikiSuffix": "Rickon_Stark"
+        },
+        {
+          "id": "8",
+          "name": "Jon Snow",
+          "description": "Bastard son of Eddard Stark - Steweard in the Night's Watch - Direwolf: Ghost",
+          "imageSuffix": "jon-snow",
+          "wikiSuffix": "Jon_Snow"
+        }
+      ]
+    },
+
+
+
+    {
+      "id":"2",
+      "name": "Lannisters",
+      "wikiSuffix": "House_Lannister",
+      "people": [
+        {
+          "id":"1",
+          "name": "Tywin Lannister",
+          "description": "Lord of Casterly Rock - Warden of the West",
+          "imageSuffix": "tywin-lannister",
+          "wikiSuffix": "Tywin_Lannister"
+        },
+        {
+          "id":"2",
+          "name": "Tyrion Lannister",
+          "description": "Son of Tywin Lannister - The Imp",
+          "imageSuffix": "tyrion-lannister",
+          "wikiSuffix": "Tyrion_Lannister"
+        },
+        {
+          "id":"3",
+          "name": "Jaime Lannister",
+          "description": "The Kingslayer - Knight of the Kingsgaurd - Son of Tywin Lannister",
+          "imageSuffix": "jaime-lannister",
+          "wikiSuffix": "Jaime_Lannister"
+        },
+        {
+          "id":"4",
+          "name": "Queen Cersei (Lannister) Baratheon",
+          "description": "Married to King Robert Baratheon - Daughter of Tywin Lannister",
+          "imageSuffix": "cersei-lannister",
+          "wikiSuffix": "Cersei_Lannister"
+        }
+      ]
+    },
+
+
+    {
+      "id":"3",
+      "name": "Baratheons",
+      "wikiSuffix": "House_Baratheon",
+      "people": [
+        {
+          "id":"1",
+          "name": "King Robert Baratheon",
+          "description": "The first of his name - Lord of the Seven Kingdoms",
+          "imageSuffix": "robert-baratheon",
+          "wikiSuffix": "Robert_Baratheon"
+        },
+        {
+          "id":"2",
+          "name": "Stannis Baratheon",
+          "description": "Lord of Dragonstone - Master of Ships - Brother of Robert Baratheon",
+          "imageSuffix": "stannis-baratheon",
+          "wikiSuffix": "Stannis_Baratheon"
+        },
+        {
+          "id":"3",
+          "name": "Renly Baratheon",
+          "description": "Lord of Storm's End - Master of Laws - Brother of Robert Baratheon",
+          "imageSuffix": "renly-baratheon",
+          "wikiSuffix": "Renly_Baratheon"
+        },
+        {
+          "id":"4",
+          "name": "Joffrey Baratheon",
+          "description": "Heir to the Iron Throne - Son of Robert and Cersei Baratheon",
+          "imageSuffix": "joffrey-baratheon",
+          "wikiSuffix": "Joffrey_Baratheon"
+        },
+        {
+          "id":"5",
+          "name": "Tommen Baratheon",
+          "description": "Son of Robert and Cersei Baratheon",
+          "imageSuffix": "tommen-baratheon",
+          "wikiSuffix": "Tommen_Baratheon"
+        },
+        {
+          "id":"6",
+          "name": "Myrcella Baratheon",
+          "description": "Daughter of Robert and Cersei Baratheon",
+          "imageSuffix": "myrcella-baratheon",
+          "wikiSuffix": "Myrcella_Baratheon"
+        }
+      ]
+    },
+
+    {
+      "id":"4",
+      "name": "Targaryens",
+      "wikiSuffix": "House_Targaryen",
+      "people": [
+        {
+          "id":"1",
+          "name": "Daenerys Targaryen",
+          "description": "Stormborn - Khaleesi of the Dothraki - The Unburnt - Mother of Dragons - Daughter of Aerys II Targaryen \"The Mad King\"",
+          "imageSuffix": "daenerys-targaryen",
+          "wikiSuffix": "Daenerys_Targaryen"
+        },
+        {
+          "id":"2",
+          "name": "Viserys Targaryen",
+          "description": "The Beggar King - Son of Aerys II Targaryen \"The Mad King\"",
+          "imageSuffix": "viserys-targaryen",
+          "wikiSuffix": "Viserys_Targaryen"
+        }
+      ]
+    },
+
+
+
+    {
+      "id":"5",
+      "name": "Greyjoys",
+      "wikiSuffix": "House_Greyjoy",
+      "people": [
+        {
+          "id":"1",
+          "name": "Balon Greyjoy",
+          "description": "Lord Reaper of Pyke - Head of House Greyjoy",
+          "imageSuffix": "balon-greyjoy",
+          "wikiSuffix": "Balon_Greyjoy"
+        },
+        {
+          "id":"2",
+          "name": "Theon Greyjoy",
+          "description": "Ward of the Starks - Heir to the Iron Islands - Son of Balon Greyjoy",
+          "imageSuffix": "theon-greyjoy",
+          "wikiSuffix": "Theon_Greyjoy"
+        },
+        {
+          "id":"3",
+          "name": "Yara Greyjoy",
+          "description": "Ironborn - Son of Balon Greyjoy",
+          "imageSuffix": "yara-greyjoy",
+          "wikiSuffix": "Yara_Greyjoy"
+        }
+
+      ]
+    },
+
+    {
+      "id":"6",
+      "name": "Tyrells",
+      "wikiSuffix": "House_Tyrell",
+      "people": [
+        {
+          "id":"1",
+          "name": "Margaery (Tyrell) Baratheon",
+          "description": "Wife of Renly Baratheon - Sister of Loras Tyrell - Granddaughter of Olenna Tyrell",
+          "imageSuffix": "margaery-tyrell",
+          "wikiSuffix": "Margaery_Tyrell"
+        },
+        {
+          "id":"2",
+          "name": "Loras Tyrell",
+          "description": "Heir to Highgarden - Commander of the Kings Gaurd - Brother of Margaery Baratheon",
+          "imageSuffix": "loras-tyrell",
+          "wikiSuffix": "Loras_Tyrell"
+        }
+      ]
+    },
+
+    {
+      "id":"7",
+      "name": "Tullys",
+      "wikiSuffix": "House_Tully",
+      "people": [
+        {
+          "id":"1",
+          "name": "Catelyn (Tully) Stark",
+          "description": "Married to Eddard Stark - Daughter of Hoster Tully",
+          "imageSuffix": "catelyn-tully",
+          "wikiSuffix": "Catelyn_Tully"
+        },
+        {
+          "id":"2",
+          "name": "Lysa (Tully) Arryn",
+          "description": "Widow of Jon Arryn - Daughter of Hoster Tully",
+          "imageSuffix": "lysa-tully",
+          "wikiSuffix": "Lysa_Tully"
+        },
+        {
+          "id":"3",
+          "name": "Edmure Tully",
+          "description": "Heir to Riverrun - Son of Hoster Tully",
+          "imageSuffix": "edmure-tully",
+          "wikiSuffix": "Edmure_Tully"
+        },
+        {
+          "id":"4",
+          "name": "Brynden Tully",
+          "description": "Lord of Riverrun - Head of House Tully - Brother of Hoster Tully",
+          "imageSuffix": "brynden-tully",
+          "wikiSuffix": "Brynden_Tully"
+        }
+
+      ]
+    },
+
+    {
+      "id":"8",
+      "name": "Redwyne",
+      "wikiSuffix": "House_Redwyne",
+      "people": [
+        {
+          "id":"1",
+          "name": "Olenna (Redwyne) Tyrell",
+          "description": "Matriarch of House Tyrell - Queen of Thorns",
+          "imageSuffix": "olenna-tyrell",
+          "wikiSuffix": "Olenna_Tyrell"
+        }
+
+      ]
+    },
+
+    {
+      "id":"9",
+      "name": "Freys",
+      "wikiSuffix": "House_Freys",
+      "people": [
+        {
+          "id":"1",
+          "name": "Walder Frey",
+          "description": "Lord of the Crossing - Head of House Frey",
+          "imageSuffix": "walder-frey",
+          "wikiSuffix": "Walder_Frey"
+        }
+
+      ]
+    },
+
+    {
+      "id":"10",
+      "name": "Arryns",
+      "wikiSuffix": "House_Arryns",
+      "people": [
+        {
+          "id":"1",
+          "name": "Jon Arryn",
+          "description": "Lord of the Eyrie - Head of House Arryn - Warden of the East - Defender of the Vale",
+          "imageSuffix": "jon-arryn",
+          "wikiSuffix": "Jon_Arryn"
+        }
+
+      ]
+    },
+
+    {
+      "id":"11",
+      "name": "Dothrakis",
+      "wikiSuffix": "House_Dothrakis",
+      "people": [
+        {
+          "id":"1",
+          "name": "Khal Drogo",
+          "description": "Leader of the Dothraki people - Dothraki Warlord - Married to Daenerys Targaryen",
+          "imageSuffix": "khal-drogo",
+          "wikiSuffix": "Drogo"
+        }
+
+      ]
+    }
+
+  ]
+}
